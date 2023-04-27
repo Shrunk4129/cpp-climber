@@ -1,0 +1,5 @@
+baseURL: https://cpp-climber.pages.dev/
+defaultContentLanguage: en
+languageCode: en
+theme: PaperMod
+title: C++ Climber
